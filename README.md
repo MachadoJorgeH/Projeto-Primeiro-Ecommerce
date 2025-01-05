@@ -1,6 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
 Esse é um [Next.js](https://nextjs.org/) projeto inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Clique no ícone abaixo para acessar o meu projeto hospedado no Vercel:
+
+[![Vercel](https://assets.vercel.com/image/upload/front/favicon/vercel/ico/favicon.ico)](https://projeto-primeiro-ecommerce.vercel.app)
+
 ## Imagens Project || Imagens do Projeto 📸
 ![image](TelaInicial.jpg)
 
